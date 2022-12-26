@@ -1,0 +1,9 @@
+.banner{
+    background-image: url(../../../assets/images/bg.png);
+}
+
+.banner-btn{
+    background-image: linear-gradient(90deg, #19D3AE -22.5%, #0FCFEC 120.83%);
+    color: white;
+    font-weight: bold;
+}
