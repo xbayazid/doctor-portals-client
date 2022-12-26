@@ -15,9 +15,12 @@ Doctors Portal is a dental doctor appointment system website. This website has d
 * MongoDB
 *JWT Token
 
-**Preview Images**
+**Preview Images** <br>
 Home
-![](images/home.png)
+![](readmeImg/home.png)
 
 Appointment
-![](images/appointmentOne.png)
+![](readmeImg/appointmentOne.png)
+
+Booking Modal
+![](readmeImg/appointmentTwo.png)
