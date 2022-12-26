@@ -24,3 +24,9 @@ Appointment
 
 Booking Modal
 ![](readmeImg/appointmentTwo.png)
+
+Login
+![](readmeImg/login.png)
+
+Sign Up
+![](readmeImg/signup.png)
